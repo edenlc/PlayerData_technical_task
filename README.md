@@ -12,4 +12,5 @@ The notebook 'data_cleaning_experiments.ipynb' also goes through the process in 
 The folder 'datasets' includes both the original provided dataset and the dataset containing the high intensity event counts for each participant and zone.
 
 Thanks!
-\nEden
+
+Eden
